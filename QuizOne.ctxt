@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=age\ bookPrice\ lastName
+comment0.target=void\ StartHere(int,\ double,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ QuizOne\r\n
+comment1.params=age
+comment1.target=void\ setAge(int)
+comment1.text=\r\n\ Sets\ the\ variable\ int\ age\r\n\r\n
+comment2.params=age
+comment2.target=int\ getAge(int)
+comment2.text=\r\n\ Returns\ the\ value\ of\ int\ age\r\n
+comment3.params=
+comment3.target=void\ setBookPrice()
+comment3.text=\r\n\ Sets\ the\ variable\ bookPrice\r\n\ \r\n
+comment4.params=bookPrice
+comment4.target=double\ getBookPrice(double)
+comment4.text=\r\n\ Returns\ variable\ bookPrice\r\n
+comment5.params=lastName
+comment5.target=void\ setLastName(java.lang.String)
+comment5.text=\r\n\ Sets\ the\ lastName\ string\ value\r\n\ \r\n
+numComments=6
